@@ -1,0 +1,16 @@
+E:\C#\Form_Combobox\Form_Combobox\bin\Debug\net8.0-windows\Form_Combobox.exe
+E:\C#\Form_Combobox\Form_Combobox\bin\Debug\net8.0-windows\Form_Combobox.deps.json
+E:\C#\Form_Combobox\Form_Combobox\bin\Debug\net8.0-windows\Form_Combobox.runtimeconfig.json
+E:\C#\Form_Combobox\Form_Combobox\bin\Debug\net8.0-windows\Form_Combobox.dll
+E:\C#\Form_Combobox\Form_Combobox\bin\Debug\net8.0-windows\Form_Combobox.pdb
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.Form1.resources
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.csproj.GenerateResource.cache
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.AssemblyInfoInputs.cache
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.AssemblyInfo.cs
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.csproj.CoreCompileInputs.cache
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.dll
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\refint\Form_Combobox.dll
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.pdb
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\Form_Combobox.genruntimeconfig.cache
+E:\C#\Form_Combobox\Form_Combobox\obj\Debug\net8.0-windows\ref\Form_Combobox.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2E81C3-B8A0-45AF-A562-A7E5BA2EF6B1}|Bai 5\\Bai 5.csproj|d:\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\bai 5\\bai 5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2E81C3-B8A0-45AF-A562-A7E5BA2EF6B1}|Bai 5\\Bai 5.csproj|solutionrelative:bai 5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai5.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai 5\\Bai 5\\bai5.cs",
+              "RelativeDocumentMoniker": "Bai 5\\bai5.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai 5\\Bai 5\\bai5.cs",
+              "RelativeToolTip": "Bai 5\\bai5.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:54:17.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
